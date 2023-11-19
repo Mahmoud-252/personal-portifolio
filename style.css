@@ -148,6 +148,7 @@ section{
 
 .projects{
     background-color: black;
+    flex-wrap:wrap;
 }
 
 .content{
